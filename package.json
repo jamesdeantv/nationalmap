@@ -25,7 +25,7 @@
     "awsS3ClientConfigOverridePath": "s3://nationalmap-apps/nationalmap/privateclientconfig-2018-09-14.json"
   },
   "devDependencies": {
-    "babel-eslint": "^7.0.0",
+    "babel-eslint": "^10.0.1",
     "babel-loader": "^7.0.0",
     "babel-plugin-jsx-control-statements": "^3.2.8",
     "babel-preset-env": "^1.6.1",
